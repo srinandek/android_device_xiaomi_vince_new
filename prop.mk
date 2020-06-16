@@ -17,4 +17,4 @@ persist.camera.eis.enable=1
 
 # Havoc maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
-ro.havoc.maintainer=KenHV
+ro.p404.maintainer=Srinand.E.k
